@@ -4,8 +4,6 @@ import Control.Monad
 import Control.Monad.ST
 import Data.Array.ST
 import Data.Bifunctor
-import Data.Bits (Bits (xor))
-import Data.Char
 import Data.List
 import Data.Maybe
 import Data.STRef
