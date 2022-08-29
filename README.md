@@ -8,4 +8,4 @@ There are 233 956 different solutions for 8x7 board.
 ### Running ###
     $ cabal run
 
-It prints out a random solution to the 8x7 board.
+It prints out a random solution for 8x7 board.
